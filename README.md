@@ -129,25 +129,9 @@ Tetris for Windows desktop.<br>
 </td>
 <td width="50%" valign="top">
 
-**[FPT](https://github.com/Decsr/FPT)**<br>
-University semester projects: a pizza store and a koi fish veterinary centre.<br>
-<sub>Java · JavaScript · C# · SQL</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[Codeforces](https://github.com/Decsr/Codeforces)**<br>
 Competitive programming solutions.<br>
 <sub>C++</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**Older exercises**<br>
-Assorted algorithm exercise repositories.<br>
-<sub>see my repositories</sub>
 
 </td>
 </tr>
