@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Featured project: Decsr-Code">
+<title>Featured project: Decsr-Code</title>
+<rect x="0.5" y="0.5" width="999" height="199" rx="10" fill="#1b1b1f" stroke="#3a3a44"/>
+<defs><radialGradient id="n1"><stop offset="0" stop-color="#9d7cff" stop-opacity="0.2"/><stop offset="1" stop-color="#9d7cff" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="200" cy="60" rx="320" ry="110" fill="url(#n1)"/>
+<rect x="538" y="15" width="1" height="1" fill="#f4f2ff" opacity="0.7"/>
+<rect x="566" y="16" width="2" height="2" fill="#c8c6d8" opacity="0.9"/>
+<rect x="894" y="33" width="2" height="2" fill="#c8c6d8" opacity="0.9"/>
+<rect x="807" y="138" width="2" height="2" fill="#f4f2ff" opacity="0.5"/>
+<rect x="835" y="71" width="2" height="2" fill="#f4f2ff" opacity="0.5"/>
+<rect x="758" y="17" width="1" height="1" fill="#c8c6d8" opacity="0.7"/>
+<rect x="989" y="98" width="2" height="2" fill="#f4f2ff" opacity="0.7"/>
+<rect x="987" y="103" width="1" height="1" fill="#77758a" opacity="0.5"/>
+<rect x="870" y="10" width="2" height="2" fill="#f4f2ff" opacity="0.7"/>
+<rect x="828" y="174" width="1" height="1" fill="#f4f2ff" opacity="0.5"/>
+<rect x="941" y="109" width="2" height="2" fill="#77758a" opacity="0.7"/>
+<rect x="920" y="55" width="2" height="2" fill="#f4f2ff" opacity="0.7"/>
+<rect x="771" y="31" width="2" height="2" fill="#77758a" opacity="0.5"/>
+<rect x="140" y="17" width="1" height="1" fill="#f4f2ff" opacity="0.7"/>
+<rect x="835" y="177" width="1" height="1" fill="#f4f2ff" opacity="0.9"/>
+<rect x="969" y="99" width="1" height="1" fill="#f4f2ff" opacity="0.9"/>
+<rect x="144" y="15" width="1" height="1" fill="#f4f2ff" opacity="0.9"/>
+<rect x="777" y="45" width="2" height="2" fill="#77758a" opacity="0.5"/>
+<text x="40" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#77758a" letter-spacing="2">✦ FEATURED PROJECT</text>
+<text x="40" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="34" font-weight="bold" fill="#9d7cff">Decsr-Code</text>
+<text x="40" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#c8c6d8">Terminal-native multi-agent coding pipeline in Go:</text>
+<text x="40" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#c8c6d8">plan, code, test, review and fix with AI agents.</text>
+<rect x="40" y="148" width="62" height="26" rx="4" fill="#232329" stroke="#9d7cff"/>
+<rect x="48" y="157" width="8" height="8" fill="#9d7cff" shape-rendering="crispEdges"/>
+<text x="64" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9d7cff">PM</text>
+<rect x="114" y="148" width="89" height="26" rx="4" fill="#232329" stroke="#6ff2b4"/>
+<rect x="122" y="157" width="8" height="8" fill="#6ff2b4" shape-rendering="crispEdges"/>
+<text x="138" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6ff2b4">Coder</text>
+<rect x="215" y="148" width="62" height="26" rx="4" fill="#232329" stroke="#ff7ac6"/>
+<rect x="223" y="157" width="8" height="8" fill="#ff7ac6" shape-rendering="crispEdges"/>
+<text x="239" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ff7ac6">QA</text>
+<rect x="289" y="148" width="62" height="26" rx="4" fill="#232329" stroke="#ffd166"/>
+<rect x="297" y="157" width="8" height="8" fill="#ffd166" shape-rendering="crispEdges"/>
+<text x="313" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ffd166">UX</text>
+<rect x="363" y="148" width="116" height="26" rx="4" fill="#232329" stroke="#ff5c7a"/>
+<rect x="371" y="157" width="8" height="8" fill="#ff5c7a" shape-rendering="crispEdges"/>
+<text x="387" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ff5c7a">Security</text>
+<text x="499" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#77758a">Go · Bubble Tea · MIT · v0.1.1</text>
+<g shape-rendering="crispEdges" fill="#9d7cff"><rect x="806" y="70" width="14" height="6"/><rect x="800" y="76" width="26" height="18"/><rect x="804" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="818" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="804" y="94" width="6" height="6"/><rect x="816" y="94" width="6" height="6"/></g>
+<g shape-rendering="crispEdges" fill="#6ff2b4"><rect x="840" y="70" width="14" height="6"/><rect x="834" y="76" width="26" height="18"/><rect x="838" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="852" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="838" y="94" width="6" height="6"/><rect x="850" y="94" width="6" height="6"/></g>
+<g shape-rendering="crispEdges" fill="#ff7ac6"><rect x="874" y="70" width="14" height="6"/><rect x="868" y="76" width="26" height="18"/><rect x="872" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="886" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="872" y="94" width="6" height="6"/><rect x="884" y="94" width="6" height="6"/></g>
+<g shape-rendering="crispEdges" fill="#ffd166"><rect x="908" y="70" width="14" height="6"/><rect x="902" y="76" width="26" height="18"/><rect x="906" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="920" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="906" y="94" width="6" height="6"/><rect x="918" y="94" width="6" height="6"/></g>
+<g shape-rendering="crispEdges" fill="#ff5c7a"><rect x="942" y="70" width="14" height="6"/><rect x="936" y="76" width="26" height="18"/><rect x="940" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="954" y="82" width="4" height="4" fill="#1b1b1f"/><rect x="940" y="94" width="6" height="6"/><rect x="952" y="94" width="6" height="6"/></g>
+<path d="M930 29L932.0 34.0L937 36L932.0 38.0L930 43L928.0 38.0L923 36L928.0 34.0Z" fill="#ffd166"/>
+</svg>
