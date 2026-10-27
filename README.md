@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Decsr - Software developer" width="100%">
+<img src="assets/banner.svg" alt="Truong Nguyen Hoang Long - Software Engineer" width="100%">
 
 <a href="mailto:truongnguyenhoanglong@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-truongnguyenhoanglong%40gmail.com-4a86ff?style=flat-square&labelColor=0b1426&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/decsr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-decsr-2f5bd3?style=flat-square&labelColor=0b1426"></a>
 <a href="https://decsr.github.io/CV/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-decsr.github.io%2FCV-5ce1e6?style=flat-square&labelColor=0b1426"></a>
 <img alt="Location" src="https://img.shields.io/badge/Location-HCM%20City%2C%20Viet%20Nam-7cb8ff?style=flat-square&labelColor=0b1426">
-<a href="https://github.com/Decsr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Decsr-bfe3ff?style=flat-square&labelColor=0b1426&logo=github&logoColor=white"></a>
+
+Software Engineer at Greystone Data Systems Vietnam · system integration, backend and developer tooling
 
 </div>
 
@@ -13,10 +15,30 @@
 
 ## <img src="assets/section-about.svg" alt="About" height="32">
 
-- Software developer based in HCM City, Viet Nam, focused on developer tooling in Go.
-- Also works with C# / .NET (WPF), Java, C++ and the web.
-- Game projects in Unity.
-- Ships with CI, automated releases and tests, as in Decsr-Code.
+- Software Engineer in HCM City, Viet Nam, with experience in software development and system integration.
+- Builds industrial machine software and MQTT-based communication between machines, firmware and web systems.
+- Backend background in C#, Java and RESTful APIs; builds developer tooling in Go, as in Decsr-Code.
+- Adaptable and eager to learn. English (good conversational proficiency) and Vietnamese (native).
+
+## <img src="assets/section-experience.svg" alt="Experience" height="32">
+
+**Software Engineer** · Greystone Data Systems Vietnam · *May 2025 – Present*
+
+- Designed and implemented MQTT (Mosquitto) communication across 8 topics, connecting 4 industrial machines for real-time dashboards, central logs and remote control.
+- Built Qt user interfaces for machine control software and wrote specifications and documentation for software, hardware and web components.
+- Worked with hardware and assembly teams on integration and commissioning; builds with CMake, Git and GitLab on Linux.
+
+**Backend Developer** · FPT Software · *Apr 2024 – Apr 2025*
+
+- Offshore team serving Japanese clients; contributed backend features and RESTful APIs.
+- Took part in module design, deployment and environment configuration.
+- Maintained delivered systems, resolving issues from customer feedback.
+
+## <img src="assets/section-education.svg" alt="Education" height="32">
+
+**FPT University** · Bachelor's Degree in Software Engineering · *2021 – 2026, graduated*
+
+Achievements: Third Prize, Provincial Informatics Competition (2021) · Consolation Prize, North Central Delta Olympic Competition (2020)
 
 ## <img src="assets/section-featured.svg" alt="Featured" height="32">
 
@@ -38,31 +60,46 @@
 <tr>
 <td><b>Languages</b></td>
 <td>
-<img alt="Go" src="https://img.shields.io/badge/Go-4a86ff?style=flat-square&logo=go&logoColor=white">
 <img alt="C#" src="https://img.shields.io/badge/C%23-7cb8ff?style=flat-square&logo=dotnet&logoColor=0b1426">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-5ce1e6?style=flat-square&logo=cplusplus&logoColor=0b1426">
 <img alt="Java" src="https://img.shields.io/badge/Java-bfe3ff?style=flat-square&logo=openjdk&logoColor=0b1426">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2f5bd3?style=flat-square&logo=javascript&logoColor=white">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-4a86ff?style=flat-square">
+<img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-5ce1e6?style=flat-square&logo=cplusplus&logoColor=0b1426">
+<img alt="Python" src="https://img.shields.io/badge/Python-2f5bd3?style=flat-square&logo=python&logoColor=white">
+<img alt="Go" src="https://img.shields.io/badge/Go-4a86ff?style=flat-square&logo=go&logoColor=white">
 </td>
 </tr>
 <tr>
-<td><b>Frameworks &amp; tools</b></td>
+<td><b>Backend</b></td>
 <td>
-<img alt=".NET / WPF" src="https://img.shields.io/badge/.NET%20%2F%20WPF-4a86ff?style=flat-square&logo=dotnet&logoColor=white">
-<img alt="Unity" src="https://img.shields.io/badge/Unity-7cb8ff?style=flat-square&logo=unity&logoColor=0b1426">
-<img alt="Bubble Tea" src="https://img.shields.io/badge/Bubble%20Tea-5ce1e6?style=flat-square">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-bfe3ff?style=flat-square&logo=html5&logoColor=0b1426">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-2f5bd3?style=flat-square&logo=css&logoColor=white">
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-4a86ff?style=flat-square&logo=dotnet&logoColor=white">
+<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-7cb8ff?style=flat-square">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-5ce1e6?style=flat-square&logo=spring&logoColor=0b1426">
+<img alt="REST" src="https://img.shields.io/badge/REST-bfe3ff?style=flat-square">
 </td>
 </tr>
 <tr>
-<td><b>DevOps</b></td>
+<td><b>Systems &amp; integration</b></td>
+<td>
+<img alt="MQTT" src="https://img.shields.io/badge/MQTT-4a86ff?style=flat-square&logo=mqtt&logoColor=white">
+<img alt="Qt" src="https://img.shields.io/badge/Qt-7cb8ff?style=flat-square&logo=qt&logoColor=0b1426">
+<img alt="CMake" src="https://img.shields.io/badge/CMake-5ce1e6?style=flat-square&logo=cmake&logoColor=0b1426">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-bfe3ff?style=flat-square&logo=linux&logoColor=0b1426">
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-4a86ff?style=flat-square">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-7cb8ff?style=flat-square&logo=postgresql&logoColor=0b1426">
+</td>
+</tr>
+<tr>
+<td><b>Tools &amp; DevOps</b></td>
 <td>
 <img alt="Git" src="https://img.shields.io/badge/Git-4a86ff?style=flat-square&logo=git&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-7cb8ff?style=flat-square&logo=githubactions&logoColor=0b1426">
-<img alt="GoReleaser" src="https://img.shields.io/badge/GoReleaser-5ce1e6?style=flat-square&logo=goreleaser&logoColor=0b1426">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-bfe3ff?style=flat-square&logo=linux&logoColor=0b1426">
+<img alt="GitLab" src="https://img.shields.io/badge/GitLab-7cb8ff?style=flat-square&logo=gitlab&logoColor=0b1426">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-5ce1e6?style=flat-square&logo=docker&logoColor=0b1426">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-bfe3ff?style=flat-square&logo=githubactions&logoColor=0b1426">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-2f5bd3?style=flat-square&logo=postman&logoColor=white">
 </td>
 </tr>
 </table>
@@ -122,7 +159,7 @@ Assorted algorithm exercise repositories.<br>
 
 ## <img src="assets/section-contact.svg" alt="Contact" height="32">
 
-Open to collaboration — reach me at [truongnguyenhoanglong@gmail.com](mailto:truongnguyenhoanglong@gmail.com)
+Open to collaboration — reach me at [truongnguyenhoanglong@gmail.com](mailto:truongnguyenhoanglong@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/decsr/)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
