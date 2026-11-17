@@ -18,26 +18,6 @@ Software Engineer at Greystone Data Systems Vietnam · system integration, backe
 - Backend background in C#, Java and RESTful APIs; builds developer tooling in Go, as in Decsr-Code.
 - Adaptable and eager to learn. English (good conversational proficiency) and Vietnamese (native).
 
-## <img src="assets/section-experience.svg" alt="Experience" height="60">
-
-**Software Engineer** · Greystone Data Systems Vietnam · *May 2025 – Present*
-
-- Designed and implemented MQTT (Mosquitto) communication across 8 topics, connecting 4 industrial machines for real-time dashboards, central logs and remote control.
-- Built Qt user interfaces for machine control software and wrote specifications and documentation for software, hardware and web components.
-- Worked with hardware and assembly teams on integration and commissioning; builds with CMake, Git and GitLab on Linux.
-
-**Backend Developer** · FPT Software · *Apr 2024 – Apr 2025*
-
-- Offshore team serving Japanese clients; contributed backend features and RESTful APIs.
-- Took part in module design, deployment and environment configuration.
-- Maintained delivered systems, resolving issues from customer feedback.
-
-## <img src="assets/section-education.svg" alt="Education" height="60">
-
-**FPT University** · Bachelor's Degree in Software Engineering · *2021 – 2026, graduated*
-
-Achievements: Third Prize, Provincial Informatics Competition (2021) · Consolation Prize, North Central Delta Olympic Competition (2020)
-
 ## <img src="assets/section-featured.svg" alt="Featured" height="60">
 
 <a href="https://github.com/Decsr/Decsr-Code">
