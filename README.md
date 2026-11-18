@@ -4,7 +4,6 @@
 
 <a href="mailto:truongnguyenhoanglong@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-truongnguyenhoanglong%40gmail.com-df6847?style=flat-square&labelColor=173f3d&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/decsr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-decsr-68736e?style=flat-square&labelColor=173f3d"></a>
-<a href="https://decsr.github.io/CV/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-decsr.github.io%2FCV-f0d06e?style=flat-square&labelColor=173f3d"></a>
 <img alt="Location" src="https://img.shields.io/badge/Location-HCM%20City%2C%20Viet%20Nam-c7d0ca?style=flat-square&labelColor=173f3d">
 
 Software Engineer at Greystone Data Systems Vietnam · system integration, backend and developer tooling
@@ -24,11 +23,11 @@ Software Engineer at Greystone Data Systems Vietnam · system integration, backe
   <img src="assets/featured.svg" alt="Decsr-Code: terminal-native multi-agent coding pipeline in Go" width="100%">
 </a>
 
-- A team of specialist agents (PM, Coder, QA, UX Reviewer, Security) with human approval gates.
-- Test-driven, resumable runs with a rich terminal UI.
-- Works with CLI runners and local models (Ollama, LM Studio, MLX).
+- Splits a task into a graph of nodes run in parallel by specialist roles (PM, Coder, Reviewer, QA, Security), with a plan you approve first.
+- Routes each node to a fitting agent across Claude Code, Codex, OpenCode, DeepSeek and local models, within a budget.
+- Live node view, resumable nodes, Build & test only when code changes, and pull requests from the terminal.
 
-[Repository](https://github.com/Decsr/Decsr-Code) · [Releases](https://github.com/Decsr/Decsr-Code/releases) · latest v0.1.1
+[Repository](https://github.com/Decsr/Decsr-Code) · [Releases](https://github.com/Decsr/Decsr-Code/releases) · latest v0.7.1
 
 ## <img src="assets/section-stack.svg" alt="Tech stack" height="60">
 
@@ -86,20 +85,11 @@ Software Engineer at Greystone Data Systems Vietnam · system integration, backe
 <tr>
 <td width="50%" valign="top">
 
-**[CV](https://github.com/Decsr/CV)** · [live site](https://decsr.github.io/CV/)<br>
-Static CV and photography portfolio site.<br>
-<sub>HTML / CSS / JavaScript</sub>
-
-</td>
-<td width="50%" valign="top">
-
 **[2048-Unity](https://github.com/Decsr/2048-Unity)**<br>
 2048 puzzle game in Unity.<br>
 <sub>C# · Unity</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Personal-Project](https://github.com/Decsr/Personal-Project)**<br>
@@ -107,6 +97,8 @@ Tetris for Windows desktop.<br>
 <sub>C# · WPF</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Codeforces](https://github.com/Decsr/Codeforces)**<br>
